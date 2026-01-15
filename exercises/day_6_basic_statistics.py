@@ -14,11 +14,21 @@ print(sum(ages)/len(ages), ("average age"))
 
 ages = [18, 22, 15, 30, 27]
 
-Total = 0
+total = 0
 
 for age in ages:
-    Total = Total + age 
+    total = total + age 
 
-print("Total age:", Total)
-print("average age:", Total / len(ages))
+print("total age:", total)
+print("average age:", total / len(ages))
 
+#test on range checking 
+ages = [15, 18, 21, 25, 30, 12, 60, 61]
+
+for age in ages:
+    if 18<=age<=60:
+        print(age ,"age:")
+    if age % 2 == 0:
+        print("even age found:", age)
+    else:
+            print("no even age found")
