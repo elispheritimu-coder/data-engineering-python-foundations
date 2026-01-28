@@ -1,0 +1,6 @@
+Flagged Users Report
+
+Username: bob123, Email: bob_at_gmail.com
+Username: daisy$, Email: daisy@yahoo
+Username: eve, Email: test@unknown.com
+Username: gina, Email: no_email
