@@ -1,0 +1,3 @@
+bob123 | bob_at_gmail.com | Reason: Invalid email format
+daisy$ | daisy@yahoo | Reason: Invalid email format
+gina | no_email | Reason: Invalid email format

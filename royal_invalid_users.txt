@@ -1,0 +1,4 @@
+Name: Bruno, Email: , Country: Nigeria, Error: Missing name or email
+Name: Cynthia, Email: cyn.com, Country: , Error: Invalid email format
+Name: Gina, Email: gina@, Country: , Error: Invalid email format
+Name: Jack, Email: , Country: , Error: Missing name or email

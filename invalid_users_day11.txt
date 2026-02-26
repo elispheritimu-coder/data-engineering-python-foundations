@@ -1,0 +1,7 @@
+Invalid Users Report
+Bob | bob_at_gmail.com | Invalid email format (needs @ and .)
+N/A | missingname@gmail.com | Missing name
+Clara | clara@yahoo | Invalid email format (needs @ and .)
+Eve | N/A | Missing email
+Frank | frank.valid.com | Invalid email format (needs @ and .)
+Henry | henry@ | Invalid email format (needs @ and .)
