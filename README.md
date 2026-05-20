@@ -37,6 +37,23 @@ Data Engineering Foundations
 	•	Function-based pipeline architecture
 
 ⸻
+## 📅 10-Day Learning Log
+
+| Day | Focus Area | Key Concepts |
+|-----|-----------|--------------|
+| Day 1 | Python foundations | Data types, strings, lists, loops |
+| Day 2 | Conditionals & logic | if/elif/else, nested conditions |
+| Day 3 | File handling | CSV read/write, TXT handling |
+| Day 4 | Data validation | Email, phone, missing fields |
+| Day 5 | Functions | Parameters, return values, type hints |
+| Day 6 | Modular design | Pipeline thinking, separate scripts |
+| Day 7 | Error handling | try/except, logging |
+| Day 8 | JSON & reporting | json.load/dump, summary generation |
+| Day 9 | Git & structure | Commits, .gitignore, folder structure |
+| Day 10 | Full pipeline | End-to-end run, final output |
+
+---
+ 
 
 🔄 Example Pipeline: Day 11 – Function-Based Validation System
 
