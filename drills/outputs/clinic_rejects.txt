@@ -1,0 +1,8 @@
+CLINIC REJECTED RECORDS
+=======================
+
+Name: Brian Kip | Age: 17 | Email: brian.kip@yahoo.com | Department: Radiology | Reasons: underage
+Name: Cynthia Wanjiru | Age: 29 | Email: cynthiaw.gmail.com | Department: Pediatrics | Reasons: bad email
+Name: Esther N | Age: N/A | Email: esther.n@gmail.com | Department: Oncology | Reasons: missing age
+Name: Frank Otieno | Age: 45 | Email: frank@clinic | Department: Radiology | Reasons: bad email
+Name: Henry K | Age: 25 | Email: henry.k@gmail.com | Department: N/A | Reasons: missing department

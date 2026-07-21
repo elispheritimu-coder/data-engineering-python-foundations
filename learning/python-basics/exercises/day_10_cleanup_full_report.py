@@ -4,7 +4,7 @@ valid_users = []
 invalid_users = []
 
 # Step 1: Read users from CSV
-with open("raw_users.csv", "r") as file:
+with open("raw_user.csv", "r") as file:
     reader = csv.DictReader(file)
     raw_data = list(reader)
 
